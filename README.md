@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://github.com/aysh01/CognoRise-InfoTech/blob/main/Python_Development_Internship/661298233062300.jpg" width="500" height="500"/><br>
+  <img src="https://github.com/aysh01/Cognifyz-Technologies/blob/main/Aayush%20Kantak.jpg" width="500" height="500"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a Data Science Internship which is provided by <a href="https://www.linkedin.com/company/cognifyz-techonologies/">Cognifzy Technologies</a>..<br>
