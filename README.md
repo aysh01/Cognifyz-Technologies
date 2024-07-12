@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://cognifyz.com/">
-    <img src="![image](https://github.com/user-attachments/assets/67b12435-a52f-46c5-98a7-40d2a5026f3f)" width="100"/>
+    <img src="https://github.com/user-attachments/assets/67b12435-a52f-46c5-98a7-40d2a5026f3f" width="100"/>
   </a><br>
     <a href="https://www.linkedin.com/posts/aayush-kantak_skillsbuild-elearning-entrylevelpositions-activity-7208417643400224769-xE3j?utm_source=share&utm_medium=member_android">
       <img src="https://img.shields.io/badge/Blog-blue?logo=dependabot" alt="Website"/>
